@@ -18,4 +18,5 @@ Here is the 3D Imge of my PCB:
 
 Here is my BoM of PCB components:
 [BoM3.csv](https://github.com/user-attachments/files/27340433/BoM3.csv)
-ease find all production and firmware fiels in my repo.
+
+Please find all production and firmware fiels in my repo.
