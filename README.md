@@ -1,3 +1,4 @@
+
 # Custom Bluetooth Devboard 
 This is a cutom bluetooth devboard made by me for IoT and short range communication and automation. 
 This board uses a nRF 52840 QIAA-F-R7 along with a RP2040 for processing, wired together with SPI.
@@ -15,4 +16,6 @@ Here is my PCB:
 Here is the 3D Imge of my PCB:
 <img width="1342" height="727" alt="image" src="https://github.com/user-attachments/assets/e42e89e2-485c-47cb-8ece-f9e32921208b" />
 
-Please find all production and firmware fiels in my repo.
+Here is my BoM of PCB components:
+[BoM3.csv](https://github.com/user-attachments/files/27340433/BoM3.csv)
+ease find all production and firmware fiels in my repo.
