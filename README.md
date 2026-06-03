@@ -8,7 +8,7 @@ A TLV75533PDBV (LDO) as my Voltage regulator.
 SMD resistors.
 SMD capacitors.
 Here is my schematic:
-<img width="1912" height="1030" alt="Screenshot 2026-04-19 145719" src="https://github.com/user-attachments/assets/3f2f4c74-c24e-4aae-b646-912f7ca3197c" />
+<img width="1636" height="847" alt="image" src="https://github.com/user-attachments/assets/2032ce8d-5110-4d12-b09f-ba191cd2b938" />
 
 Here is my PCB:
 <img width="1313" height="813" alt="Screenshot 2026-04-30 215106" src="https://github.com/user-attachments/assets/1d4734f6-203b-43fb-acb2-eec46d8ac1f7" />
