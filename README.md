@@ -8,15 +8,16 @@ A TLV75533PDBV (LDO) as my Voltage regulator.
 SMD resistors.
 SMD capacitors.
 Here is my schematic:
-<img width="1636" height="847" alt="image" src="https://github.com/user-attachments/assets/2032ce8d-5110-4d12-b09f-ba191cd2b938" />
+<img width="1523" height="806" alt="image" src="https://github.com/user-attachments/assets/ae00c3d1-30ff-41c1-b2eb-31a937d1e808" />
 
 Here is my PCB:
-<img width="1313" height="813" alt="Screenshot 2026-04-30 215106" src="https://github.com/user-attachments/assets/1d4734f6-203b-43fb-acb2-eec46d8ac1f7" />
+<img width="1295" height="792" alt="image" src="https://github.com/user-attachments/assets/7148ed55-55fa-45c4-bb1b-e787dd95a9dd" />
 
 Here is the 3D Imge of my PCB:
-<img width="1342" height="727" alt="image" src="https://github.com/user-attachments/assets/e42e89e2-485c-47cb-8ece-f9e32921208b" />
+<img width="1207" height="687" alt="image" src="https://github.com/user-attachments/assets/7be5438f-1758-472a-9867-5c902175a16c" />
 
 Here is my BoM of PCB components:
-[BoM3.csv](https://github.com/user-attachments/files/27340433/BoM3.csv)
+[BLE_DEV_001_bom.csv](https://github.com/user-attachments/files/30661502/BLE_DEV_001_bom.csv)
 
-Please find all production and firmware fiels in my repo.
+
+Please find all production and firmware files in my repo.
